@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <color name="colorPrimary">#8bdddd</color>
+   <color name="colorPrimaryDark">#8bdddd</color>
+   <color name="colorAccent">#8bdddd</color>
+   <color name="girisArkaPlan">#98d4f5</color>
+   <color name="tabloArkaPlan">#98dbf2</color>
+</resources>
