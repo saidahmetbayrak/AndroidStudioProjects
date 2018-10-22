@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "879322080708",
+    "firebase_url": "https://acilkanlazim-c20b0.firebaseio.com",
+    "project_id": "acilkanlazim-c20b0",
+    "storage_bucket": "acilkanlazim-c20b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879322080708:android:b5268e91d28bf38e",
+        "android_client_info": {
+          "package_name": "saidahmetbayrak.sab.acilkanlazim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879322080708-ctimiuncog4hrae4avm8d8h1nsghne3i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "saidahmetbayrak.sab.acilkanlazim",
+            "certificate_hash": "88c01816cf28286661112bc80c2683dddbd75359"
+          }
+        },
+        {
+          "client_id": "879322080708-jj95jmrvuut0v433q3pjqh315aehuvhm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs5clHoS4n8l62yJOcsAu-q5ossqNaabk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879322080708-jj95jmrvuut0v433q3pjqh315aehuvhm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

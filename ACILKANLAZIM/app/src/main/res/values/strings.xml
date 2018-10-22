@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ACILKANLAZIM</string>
+    <string name="logoBaslik">ACİL KAN LAZIM</string>
+    <string name="ePosta">E-POSTA</string>
+    <string name="sifre">SİFRE</string>
+    <string name="sifreUnut">ŞİFREMİ UNUTTUM!</string>
+    <string name="giris">GİRİS</string>
+    <string name="kayit">KAYİT OL</string>
+    <string name="sifreUnutmaBaslik">Şifreni mi unuttun?</string>
+    <string name="devam">DEVAM ET</string>
+    <string name="ad_soyad">AD-SOYAD</string>
+    <string name="kanGrubu">KAN GRUBU</string>
+    <string name="cepNo">CEP NO</string>
+    <string name="gizlilik_Kullanım">GİZLİLİK VE KULLANIM KOŞULLARINI OKUDUM,</string>
+    <string name="kabul">KABUL EDİYORUM</string>
+</resources>
